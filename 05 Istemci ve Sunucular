@@ -1,0 +1,16 @@
+         05 Istemci ve Sunucular
+
+
+Istemci:
+
+Ana bilgisayarların, sunucudan alınan bilgileri talep etmesini ve görüntülemesini sağlayan bir takım yazılımları barındırmaktadırlar.
+
+Sunucular:
+
+Ağdaki diğer cihazlara e-posta veya web sayfaları gizi bilgi sağlamak üzere gerekli olan yazılımları içerirler.
+
+
+-E-posta(Sunucu) suncusuna erişmek için Microsoft Outlook(İstemci)
+-Web(Sunucu) suncusuna erişmek için Internet Explorer(İstemci)
+-Dosya(Sunucu) sunucusuna erişmek için Windows Dosya Gezgini(İstemci)
+

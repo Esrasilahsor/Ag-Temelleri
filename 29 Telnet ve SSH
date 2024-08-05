@@ -1,0 +1,23 @@
+			29 Telnet ve SSH
+
+
+Telnet, cihazları veri ağı üzerinden çalıştırabilmek için standart bir yöntem sunan bir metin tabanlı terminal programıdır.
+
+Telnet sunucuları, TCP bağlantı nsoktası 23'te istemci isteklerini dinler.
+
+Telnet kullanan bir bağlantıya sanal terminal (VTY) oturumu denir.
+
+Istemci, komutları sunucuya fiziksel olarak bağlıy mış gibi yürütebilir.
+
+	Telnet'teki Güvenlik Sorunları:
+
+Telnet baglantist kurulduktan sonra kullanlcilar, sunucunun
+kendisinde bir komut satiri oturumu kullanlyormusçasına sunucudaki herhangi bir yetkili islevi gerçeklestirebilirler.
+
+Telnet protokolü bir kullanicinin oturum açmasinl gerektirse de sifrelenmis verilerin tasinmasinl desteklemez
+
+Telnet oturumlar strasinda degis tokus edilen tum veriler ag uzerinden duz metin olarak taşınır.
+
+Güvenli Kabuk (SSH) protokolü, sunucu erisimi için alternatif ve güvenli bir yöntem sunar. SSH, guvenli uzaktan oturum açma ve diger guvenl ag hizmetleri icin yapı saglar.
+
+SSH, Telnetten daha guçlu kimlik dogrulamast saglar ve şifreleme kuullanılarak oturum verilerinin taşınmasını destekler.

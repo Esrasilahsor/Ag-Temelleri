@@ -1,0 +1,12 @@
+			28 DNS (Domain Name System)
+
+
+	DNS Sunucuları:
+
+DNS sunucusu, bir etki alanındaki bilgisayar adlarına karşılik gelen IP adresleriyle ilişkilendiren bir tablo içerir.
+
+Bir istemci, web sunucusu gibi sunucunun adına sahip olduğunda ancak IP adresini bulması gerektiğinde, 53 numaralı bağlantı noktasındaki DNS sunucusuna bir istek gönderir.
+
+DNS sunucusu isteği aldığında, bu web sunucusuyla ilişkili IP adresini belirlemek için tablosunu denetler.
+
+Yerel DNS sunucusu istenen ad için tablosunda bir girdiye sahip değilse, etki alanı içindeki başka bir DNS sunucusuna sorguyu gönderir.

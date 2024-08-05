@@ -1,0 +1,21 @@
+			22 Dual Stack
+
+
+	Dual Stack: 
+
+Çift Yığın yöntemi, aynı ağ segmenntinde bulunan cihazların hem IPv4 hem IPv6 adres yapılarını bir arada kullanmalarına izin verir.
+
+
+	Tünel Oluşturma(Tunneling): 
+
+IPv6 ağı üzerinden taşıma yöntemidir. IPv6 paketi, diğer veri türlerine benzer şekilde IPv4 paketinin içinde kapsüllenir.
+
+
+	NAT64: 
+
+En az 2 arayüzü olan bir ağ aygıtı(Yönlendirici) gibi düşünülebilir. Paketler router cihaz tarafından IPv6 ağından IPv4 ağına yönlendirilecek şekilde yapılandırılmalıdır. Tam tersi işlem de yapılabilmektedir.
+
+
+*IPv6 multicast kullanır yani hızlı
+
+*IPv4 broadcast kullanır yani yavaş

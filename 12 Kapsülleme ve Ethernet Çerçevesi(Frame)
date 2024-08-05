@@ -1,0 +1,16 @@
+			12 Kapsülleme ve Ethernet Çerçevesi(Frame)
+
+
+Kapsülleme: Her ileti, kaynak ve hedef adreslerini içeren çerçeve adı verilen belirli bir biçimde kapsüllenir.
+
+
+		Hiyerarşik Ağ Tasarımı
+
+1-Acces Layer(Erişim katmanı): Bu katman LAN'daki host cihazlarının ağa bağlanmasını sağlar.
+  *Bilgisayar ve switch case
+
+2- Distribution Layer(Dağıtım katmanı): Bu katman daha küçük yerel ağları birbirine bağlar.
+  *Router
+
+3-Core Layer(Çekirdek katman): Bu katman, dağıtım katmanı aygıtları arasında yüksek hızlı bağlantı sağlar
+  *Server

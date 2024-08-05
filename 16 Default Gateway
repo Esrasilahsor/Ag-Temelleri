@@ -1,0 +1,11 @@
+			16 Default Gateway
+
+
+Varsayılan ağ geçidi demektir. 
+
+Bir ana bilgisayar aynı ağdaki bir aygıta mesaj gönderdiğinde, mesajı doğrudan iletir ve MAC adresini bulmak için ARPyi kullanır.
+
+Her ana bilgisayarın aynı ağdaki yönlendiricinin IP adresi olan doğru varsayılan ağ geçidine(Default Gateway) sahip olması çok önemlidir.
+
+**Ağ geçidimiz yönlendiricidir.
+

@@ -1,0 +1,16 @@
+			30 E-mail Protokolleri
+
+
+	Simple Mail Transfer Protocol (SMTP):
+
+SMTP 25 numaralı bağlantı noktasını kullanır ve bir e-posta istemcisi tarafindan yerel e-posta sunucusuna ileti göndermek için kullanılır. Yerel sunucu daha sonra iletinin yerel bir posta kutusu için mi yoksa iletinin başka bir sunucudaki bir posta kutusuna mı yönlendirileceğine karar verir.
+
+	Post Office Protocol (POP3):
+
+POP istemcilerini destekleyen bir sunucu, kullanıcılarına yonelik iletileri alır.
+
+Istemci e-posta sunucusuna bağlandığında, iletiler istemciye yüklenir. Varsayılan olarak, iletiler istemci tarafından erişildikten sonra sunucuda tutulmaz. istemciler 110 numaralı bağlantı noktasında POP3 sunucularıyla bağlantı kurar.
+
+	Internet Message Access Protocol (IMAP4):
+
+IMAP istemcilerini destekleyen bir sunucu, kullanıcılarına yönelik iletileri alr ve depolar. IMAP, kullanıcı tarafından silinmedikçe iletileri sunucudaki posta kutularında tutar. IMAP4, 143 numaralı bağlantı noktasında istemci isteklerini dinler.

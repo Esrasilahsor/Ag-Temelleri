@@ -1,0 +1,8 @@
+			09 Uç Cihaz Adresleme
+
+
+IP Address: IP adresi. Bu, ağdaki ana bilgisayarı tanımlar.
+
+Subnet Mask: Alt ağ maskesi. Bu, ana bilgisayarın bağlı olduğu ağı tanımlar.
+
+Default Gateway: Varsayılan ağ geçidi. Bu, ana bilgisayarın Internete veya başka bir uzak ağa erişmek için kullandığı ağ aygıtını tanımlar.

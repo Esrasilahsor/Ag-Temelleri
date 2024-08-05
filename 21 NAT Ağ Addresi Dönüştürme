@@ -1,0 +1,9 @@
+			21 NAT Ağ Addresi Dönüştürme
+
+
+NAT, bir şirket içinde kullanılan private IP adreslerini Internette yönlendirilebilen public bir adrese dönüştürmek için kullanılır.
+
+Bir public adres, bağlantı noktası numaralarını kullanarak bir çok private IP adresi arasında paylaşılabilir. Yani iki veya daha fazla cihaz aynı public IP adresiyle çıkış yapabilir ama çıkış yaptıkları portlar farklıdır.
+
+
+ NAT gecikmeye sebep olur.

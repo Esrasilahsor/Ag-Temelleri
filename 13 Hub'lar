@@ -1,0 +1,9 @@
+			13 Hub'lar
+
+
+Hub: Hub'lar bir bağlantı noktasından sinyal alır ve mesajı diğer tüm bağlantı noktalarına gönderir.
+
+Switch: Bir MAC tablosu tutar. Kaynak cihazın mesaj gönderme isteğini alır, hedef olan cihaza yönlendirir. İleti paketini belirli bir bağlantı noktasına göndermek için MAC adres tablosunu kullanırlar.
+
+
+MAC adresi görünmüyorsa ARP denilen protokol uygıulanır. 

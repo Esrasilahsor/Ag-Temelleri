@@ -1,0 +1,42 @@
+			33 Güvenlik Tehditleri
+
+
+	Dış Tehditler: 
+
+Bir bilgisayar sistemlerine veya ağa yetkili erişimi olmayan kuruluş dışındaki kişilerden kaynalanır.
+
+Dış saldırganlar, kablosuz bağlantılar veya çevirmeli erişim sunucuları aracılığıyla ve çoğunlukla Internet üzerinden iç ağa girerler.
+
+
+	İç Tehditler:
+
+Birisi tarafından bir kullanıcı hesap bilgilerini kulanarak ağa erişime izi verildiğinde ve ağ donanımına fiziksel erişime sahip olduğunda ortaya çıkar.
+
+
+İç saldırganlar kurum içi sşyaseti ve çalışanları bilir. Genellikle hangi bilgilerin hem değerli hem de savunmasız olduğunu ve onlara nasıl ulaşılacağını bilirler. 
+
+
+	Sosyal Mühendislik Atakları
+
+Şirket içi kullanıcıların belirli eylemler, gerçekleştirmeleri veya gizli bilgileri ifşa etmeleri için kandırmak üzere kullamılan çeşitli teknikleri içerir.
+
+	Pretexting: 
+
+Genellikle telefonla saldırgan, kurbanın bilgi paylaşmasını veya bir eylem gerçekleștirmesini sağlamak
+için genellkle uydurulmuș bir senaryo kullanır. Saldırganın
+etkili olabilmesi için hedeflenen magdur ile meşruiyet
+kurabilmesi gerekir.
+
+	Phishing: 
+
+Bu saldırda, dolandiricı başka bir kuruluştan
+meșru bir kişiyi temsil ediyormuş gibi yapar. Kimlik avcisı
+genellikle kurbanla e-posta veya kisa mesaj yoluyla iletişim
+kurar.
+
+	Vishing: 
+
+IP üzerinden Ses (VolP) kullanan daha yeni bir sosyal mühendislik biçimi. Şüphelenmeyen kullanıcılara
+yasal bir telefon bankacılığı hizmeti gibi görünen bir numarayı aramaları için talimat veren bir sesli posta gönderilir
+Çağrı daha sonra bir hirsız tarafindan ele geçirilir. Doğrulama için telefonla girilen banka hesap numaraları veya
+șifreler çalınır.

@@ -1,0 +1,18 @@
+			14 Broadcast
+
+
+Yerel ağdaki diğer tüm aygıtlarla bağlantı kurmak için broadcast yayın paketleri kullanılır. 
+
+Yönlendirici Cihazlar(Router) broadcast paketlerini iletmezler.
+
+Routerlar broadcast yayınlarını sınırlarlar. Router'ların her bir arayüzü bir broadcast domaindir.
+
+		Adres çözümleme protokolü(ARP): 
+
+Aynı yerel ağdaki bir aygıtın MAC adresini bulmak için kullanılır.
+
+LAN'daki bütün cihazlara gönderilir, sadece aranan(hedef) kaynak cihaz cevap verir.
+
+Bu sırada switch, MAC tablosunda bu bilgileri yeniler.
+
+Bilgisayarlar ARP tablosu, Switchler MAC tablosu tutar.

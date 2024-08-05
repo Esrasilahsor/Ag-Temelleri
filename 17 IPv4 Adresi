@@ -1,0 +1,21 @@
+			17 IPv4 Adresi
+
+
+İnternet üzerinden gönderilen her paketin bir kaynak ve hedef IPv4 adresi vardır.
+
+Bilgilerin kaynağa ulaştığından ve yanıtların kaynağa geri gönderildiğinden emin olmak için IP adresleri kullanılır.
+
+32 adetlik bit serisinden oluşur. Her sekizli grup nokta ile ayrılır, gruplar onluk sisteme çevirilerek yazılır.
+
+192.168.1.5 = 1100000010101000000000000100000101
+
+		IPv4 Adres Yapısı
+
+Network ve host olmak üzere 2 bölümden oluşur.
+
+Alt ağ maskesi(subnet mask) 255.255.255.0 ve IPv4 adresi 192.168.5.1
+
+Subnet Masktaki son okdetin 0 olması IPv4 adresindeki son oktetin hostu tanımladığını gösterir.
+
+İlk 3 sekizli (192.168.5) adresin Network(ağ) bölümünü tanımlar ve son sekizli (1) ana bilgisayarı(host) tanımlar.
+

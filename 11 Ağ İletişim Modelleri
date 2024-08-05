@@ -1,0 +1,29 @@
+			11 Ağ İletişim Modelleri
+
+		OSI Referans Modeli:
+
+Üst Katmanlar:
+
+7-	Application(Uygulama)		Ağ Uyumlu uygulamalar, E-posta 
+
+6-	Presentation(Sunum)			Web tarayıcıları ve sunucuları
+
+5-	Session(Oturum)				Dosya aktarımı, Ad çözümlemesi(dns)
+
+Alt Katmanlar:
+
+4-	Transport(Taşıma)			Video veya ses akış mekanizmaları, Güvenlik duvarı filtreleme sistemi
+
+3-	Network(Ağ)					IP Adresleme, Yönlendirme(Router)
+
+2-	Data Link(Veri Bağı)		WAN bağlantısı, Ağ arabirim kartları ve sürücüleri,Switch,Ethernet
+
+1-	Physical(Fiziksel)			Fiziksel ortam(bakır bükümlü çift, fiber optik kablolar, kablosuz vericiler),Ethernet
+
+
+		TPC/IP Modeli:
+
+Application		(Application,Presentation,Session)
+Transport		(Transport)
+Internet		(Network)
+Network Access	(Data Link, Physical)

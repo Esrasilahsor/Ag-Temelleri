@@ -1,0 +1,20 @@
+         06 Peer-to-Peer Ağlar
+
+En basit P2P ağı, kablolu veya kablosuz bağlantı kullanan doğrudan bağlı iki bilgisayardan oluşur.
+
+Bir bilgisayar hem sunucu hem istemci rolü üstelenebilmektedir. 
+
+Avantajlar:
+
+-Kurulumu kolaydır.
+-Diğer ağlardan daha az karmaşık
+-Ağ aygıtları ve özel sunucular gerekmeyebileceğinden daha düşük maliyet
+-Dosya aktarımı ve yazıcı paylaşımı gibi basit görevler için kullanılabilir.
+
+Dezavantajlar:
+
+-Merkezi yönetim yok 
+-Diğer ağlar kadar güvenli değil
+-Ölçeklenebilir değil
+-Tüm cihazlar hem istemci hem de sunucu olarak hareket edebilir ve bu da performansları yavaşlatabilir.
+

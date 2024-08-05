@@ -1,0 +1,17 @@
+             03 Yaygın Veri ILetim Yöntemleri
+
+Bit: En küçük veri parçasıdır. Harflerin ve sayıların temsilleri gibi sekiz bitlik her grup bayt olarak bilinir.
+
+Medya(ortam): Sinyallerin iletildiği fiziksel ortamdır. 
+
+-Veriler bir dizi bite dönüştürüldükten sonra ağ ortamı üzerinden hedefine gönderilebilecek sinyallere çevrilir.
+
+-Ortam örnekleri bakır tel fiber optik kablo vs olabilir.
+
+Elektrik Sinyalleri: İletim, verileri bakır tel üzerinde elektrik darbeleri olarak temsil ederek elde edilir.
+
+Optik Sinyaller: İletim, elektrik sinyallerinin ışık darbelerine dönüştürülmesiyle sağlanır.
+
+Kablosuz Sinyaller: İletim, hava yoluyla kızılötesi, mikrodalga veya radyo dalgaları kullanılarak gerçekleştirilir.
+
+

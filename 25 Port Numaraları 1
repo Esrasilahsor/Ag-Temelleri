@@ -1,0 +1,20 @@
+			25 Port Numaraları
+
+
+TCP veya UDP kullanılarak bir ileti teslim edildiğinde, istenen protokoller ve hizmetler bir port numarası ile eşleştirilerek tanımlanır.
+
+Bağlantı noktası, istemci ve sunucu arasındaki belirli konuşmaları izlemek için kullanılan her segment içindeki sayısal bir tanımlayıcıdır.
+
+Bir bilgisayarın gönderdiği her ileti hem kaynak hem de hedef bağlantı noktası içerir.
+
+	Well-Known Ports: 
+
+Ortak ağ uygulamalarıyla ilişkili hedef bağlantı noktaları. Bu bağlantı boktaları 1 ile 1023 aralığındadır.
+
+	Registered Ports: 
+
+1024'den 49151'e kadar olan bağlantı noktaları kaynak veya hedef bağlantı noktası olarak kullanılabilir.
+
+	Private Ports: 
+
+49152 ile 65535 arasındaki bağlantı noktaları genellikle kaynak bağlantı noktaları olarak kullanılır. Bu bağlantı noktaları herhangi bir uygulama tarafından kullanılabilir.

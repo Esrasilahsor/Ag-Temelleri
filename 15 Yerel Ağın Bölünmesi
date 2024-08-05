@@ -1,0 +1,13 @@
+			15 Yerel Ağın Bölünmesi
+
+	Router:
+
+Yerel bir ağı parçalara bölmek için kullanılırlar. Trafiği gereksiz meşguliyetten kurtarır. Güvenliği sağlamada yardımcı olur. 
+
+Switchler MAC adreslerini, Routerlar IP adreslerini görebilir. 
+
+Bir router cihaz hem ARP tablosuna hem yönlendirme tablosuna sahiptir.
+
+LAN'lar konumlarına göre ve mantıksal şekilde gruplandırılabilir.
+
+ 

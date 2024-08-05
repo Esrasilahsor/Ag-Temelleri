@@ -1,0 +1,14 @@
+          08 Yerel Ağ Bağlantıları
+
+
+Lan Bileşenleri
+
+1- Hosts: Ağa bağlı cihazlardır. Hepsinin bir IP adresi vardır. Bilgisayarlar, yazıcılar, mobil telefonlar tabletler vs
+
+2- Peripherals: Paylaşılan çevre birimleridir. Doğrudan ağa bağlanmazlar. Bağlanmak için bir bilgisayara ihtiyaç duyarlar. Kameralar, tarayıcılar, yazıcılar vs
+
+3-Network Devices: Ağ aygıtlarıdır. Başta bilgisayarlar olmak üzere diğer bütün aygıtları birbirine bağlarlar. Bu cihazlar ağ trafiğini hareket ettirir ve kontol ederler. Switchler(anahtarlar), yönlendiriciler(Router) vs
+
+4- NEtwork Media: Bilgisayarlar ve ağ cihazları arasında bağlantıyı sağlarlar. Kablolu veya kablosuz teknolojiler(bakır tel, optik kablo, ses dalgası vb) kullanabilir.
+
+

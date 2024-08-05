@@ -1,0 +1,21 @@
+			26 Port Numaraları
+
+
+Soket Çiftleri: 
+
+Kaynak ve hedef bağlantı noktaları ileti paketinin içine yerleştirilir.
+Kaynak ve hedefin IP adres bilgisi bir IP paketi içinde kapsüllenir.
+Kaynak IP adresi ile kaynak bağlantı noktası numarasının veya hedef IP adresi ile hedef bağlantı noktası numarasının birleşimi yuva(soket) olarak bilinir.
+
+
+Örnekte, soket istemci tarafindan istenen sunucu ve hizmeti
+tanımlamak için kullanılır.
+
+Bir istemci soketi șu șekilde 192.168.1.5:1099
+Bir web sunucusundaki soket ise 192.168.1.7:80
+Bu iki soket yuvası, bir soket çifti oluşturmak için birleşir: 192.168.1.5:1099, 192.168.1.7:80
+
+Kaynak port numarası, talep eden uygulama için bir dönüş adresi görevi görür.
+
+
+**Netstat komutu, kullanılan protokolleri, yerel adres ve bağlantı noktası numaralarını, yabancı adres ve bağlantı noktası numaralarını(port numarası) ve bağlantı durumunu listeler. 

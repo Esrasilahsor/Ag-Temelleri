@@ -1,0 +1,26 @@
+           10 İletişimin Prensipleri
+
+
+1- Source(Kaynak) Cihaz
+
+2- Destination(Hedef) Cihaz
+
+3- Media(İletim) Ortamı
+
+
+Protokol Yığını:
+
+HTTP          
+TCP
+IP
+Ethernet
+
+
+HTTP: Web sunucusu ile web istemcisinin etkileşim biçimini yönetir. Client ve server arasında değiş tokuş edilen istek ve yanıtların içeriğini ve biçimlendirmesini tanımlar.
+
+
+TCP: Tek tek konuşmaları yönetir. Bilgilerin güvenilir bir şekilde iletilmesini garanti eder. Uç cihazlar arasındaki akış kontrolünü yönetir. 
+
+IP: Gönderenden alıcıya mesaj iletmekten sorumludur. Router Cihazlar tarafından mesaj iletileri birden çok ağ üzerinden iletmek için kullanılmaktadır. 
+
+Ethernet Protokolü: Aynı ethernet lokal ağında(LAN) bir ağ ara birim kartından başka bir ağ ara birim kartına(Netxork Interface) iletilerin gönderilmesinden sorumludur. 

@@ -1,0 +1,23 @@
+			24 TCP ve UDP 
+
+
+	TCP:
+
+Paketleri güvenilir bir şekilde teslim edilmesini sğlamaya yardımcı olur.
+
+TCP bir iletiyi küçük parçalara ayırır(segmentler). Segmentler sırayla numaralandırılır ve paketler halinde gönderilirler. 
+
+TCP gönderilen segment sayısını izler.
+
+Gönderen belirli bir süre içerisinde bir bildirim almazsa, segmentlerin kaybolduğunu varsayar ve iletinin yalnızca eksik ksımını yeniden iletir.
+
+Alıcı ana bilgisayarda TCP, ileti paketlerini(segmentleri) yeniden birleştirmekten ve bunları uygulamaya iletmenkten sorumludur.
+
+
+	UDP:
+
+BAzı uygulamalarda güvenilir teslimat gerekli değildir, UDP uygun bir aktarım protokolü olabilir.
+
+Onay gerektirmeyen best effort ile paket dağıtımına dayalı bir sistemdir.
+
+Onaylar teslimatı yavaşlattığı için yeniden ilerimler istenmez yani teslimat hızlıdır.

@@ -1,0 +1,30 @@
+            04 Bandwidth ve Throughput
+
+1-Bandwidth
+
+Bant genişliği demektir. Bir ortamın veri taşıma kapasitesidir. 
+
+Dijital bant genişliği belirlbir süre içerisinde bir yerden bir diğerine akabilecek veri miktarını ölçer.
+
+Bir saniye içerisinde ortam boyunca gönderilebilecek bit sayısıyla ölçülür.
+
+
+2-Throughtput 
+
+Ağ verimi demektir. Belirli bir süre içerisinde medya boyunca bit aktarımının ölçüsüdür.
+
+Bandwith ile arasındaki farklar:
+
+1-Bağlantı üzerinden gönderilen ve alınan veri miktarı
+2-İletilen veri türleri
+3Kaynak ve hedef arasında karşılaşılan ağ aygıtlarının sayısı tarafından oluşan gecikme süresi
+
+
+Bant Genişliği: 
+
+Bir iletişim kanalının veya bağlantının taşıma kapasitesini ifade eder. Genellikle “bit başına saniye” (bps) veya daha büyük ölçülerde ifade edilir. Daha geniş bir bant genişliği, daha fazla verinin aynı anda iletilmesini sağlar.
+
+
+Verim (Throughput): 
+
+Bir sistemin belirli bir sürede kaç bilgi birimini işleyebileceğini ölçer. Verim, gerçek veri iletim hızını gösterir ve ağın kapasitesini ifade eder. Örneğin, bir internet hizmet sağlayıcısı size 100 Mbps hızında bir internet bağlantısı sunabilir. Bu, anlık veri iletim hızınızı ifade eder. Ancak bu hızı sürekli olarak elde etmek için o sağlayıcının yeterince geniş bir bant genişliğine sahip olması gerekir

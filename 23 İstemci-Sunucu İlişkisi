@@ -1,0 +1,23 @@
+			23 İstemci-Sunucu İlişkisi
+
+
+Kullanıcı bir web sayfasınaulaşmak istediğinde, web servera iste gönderir ve nunun için tarayıcı program kullanır.(Microsoft Edge, Google Chrome gibi)
+
+Sunucu bu isteği alır ve istenen web sayfasını istemciye geri göndererek yanıt verir.
+
+
+URI : 	https://www.example.com/author/book.html#page155
+
+URN:	www.example.com/author/book.html
+
+URL:	https://www.example.com/author/book.html
+
+Protocol:	https,FTP,SFTP vs
+
+Hostname:	-www.example.com
+
+Path and file name:		/author/book.html
+
+Fragment: #page155
+
+

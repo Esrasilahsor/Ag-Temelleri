@@ -1,0 +1,10 @@
+			20 DHCP Sunucuları
+
+
+Broadcast yayın yaptıkları için DHCPv4 sunucuları genellikle tek bir LAN'a bağlanır. Bu yerel ağ dışında IP dağıtan DHCPv4 sunucularının router üzerinden gwçiş hizmeti alması gerekir.
+
+Bir ev ağında veya SoHo'da(Home office) kablosuz yönlendirici cihaz diğer aygıtlara DHCP hizmeti sunar, onlara private IP dağıtır; yani iç ağda bir DHCP server olarak çalışır.
+
+Aynı zamanda ISS'den public IPv4 adresi almak üzere IP talebinde bulunan bir DHCP istemcisidir.
+
+

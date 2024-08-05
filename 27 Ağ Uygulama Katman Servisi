@@ -1,0 +1,35 @@
+		27 Ağ Uygulama Katman Servisi
+
+
+	Domain Name System (DNS):
+
+Internette kullandığımız alan adlarını IP adreslerine çözümler.
+	
+	Secure Shell (SSH):
+
+Sunuculara ve ağ aygıtlarına uzaktan erișim sağlamak için kullanılır.
+
+	Simple Mail Transfer Protocol (SMTP):
+
+Îstemcilerden sunuculara ve sunuculardan diğer e-posta sunucularına e-posta iletileri ve ekleri gönderir.
+
+	Post Office Protocol (POP):
+
+E-posta istemcileri tarafindan uzak bir sunucudan e-posta ve ekleri almak için kullanılır.
+
+	Internet Message Access Protocol(IMAP):
+
+E-posta istemcileri tarafindan uzak bir sunucudan e-posta ve ekleri almak için kullanılır.
+
+	Dynamic Host Configuration Protocol (DHCP): 
+
+İnternet üzerinden iletişim kurmalarını sağlamak için IP adresleme ve diğer gerekli bilgileri içeren aygitları otomatik olarak yapılandırmak için kullanılır.
+
+	Hypertext Transfer Protocol (HTTP):
+
+Web tarayicıları tarafindan World Wide Web'in web sayfalarını oluşturan dosyaları aktarmak için web sayfaları ve web sunucuları istemek için kullanılır.
+
+	File Transfer Protocol (FTP):
+
+Sistemler arasında etkileşimli dosya aktarımı için kullanılır.
+
